@@ -14,7 +14,7 @@ doi: 10.5281/zenodo.10561003
 date-released: 2024-01-25
 url: "https://github.com/alberto-santini/lmd-sizing-scheduling"
 preferred-citation:
-  type: report
+  type: article
   authors:
   - family-names: "Mandal"
     given names: "Minakshi Punam"
@@ -23,6 +23,7 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0002-0440-0357"
   - family-names: "Archetti"
     given-names: "Claudia"
-  journal: "Optimization Online"
+  journal: "European Journal of Operational Research"
   title: "Tactical workforce sizing and scheduling decisions for last-mile delivery"
-  year: 2024
+  year: 2025
+  doi: 10.1016/j.ejor.2024.12.006
