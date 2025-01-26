@@ -4,11 +4,13 @@
 
 This repository contains the instance generator, the instances, the solver, the solutions and the scripts used to create the figures presented in the following paper:
 ```bib
-@techreport{msa2024,
+@article{msa2024,
     title={Tactical workforce sizing and scheduling decisions for last-mile delivery},
     author={Mandal, Minakshi Pundam and Santini, Alberto and Archetti, Claudia},
-    year=2024,
-    url={https://optimization-online.org/?p=25423}
+    year=2025,
+    journal={European Journal of Operational Research},
+    doi={10.1016/j.ejor.2024.12.006},
+    url={https://www.sciencedirect.com/science/article/pii/S0377221724009482}
 }
 ```
 
