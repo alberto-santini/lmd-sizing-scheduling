@@ -11,7 +11,7 @@ This repository contains the instance generator, the instances, the solver, the 
     journal={European Journal of Operational Research},
     volume=323,
     issue=1,
-    pages={153--159},
+    pages={153--169},
     doi={10.1016/j.ejor.2024.12.006},
     url={https://www.sciencedirect.com/science/article/pii/S0377221724009482}
 }
