@@ -24,6 +24,10 @@ preferred-citation:
   - family-names: "Archetti"
     given-names: "Claudia"
   journal: "European Journal of Operational Research"
+  volume: 323
+  issue: 1
+  start: 153
+  end: 169
   title: "Tactical workforce sizing and scheduling decisions for last-mile delivery"
   year: 2025
   doi: 10.1016/j.ejor.2024.12.006
