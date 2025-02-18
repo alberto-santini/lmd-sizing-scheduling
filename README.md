@@ -9,6 +9,9 @@ This repository contains the instance generator, the instances, the solver, the 
     author={Mandal, Minakshi Pundam and Santini, Alberto and Archetti, Claudia},
     year=2025,
     journal={European Journal of Operational Research},
+    volume=323,
+    issue=1,
+    pages={153--159},
     doi={10.1016/j.ejor.2024.12.006},
     url={https://www.sciencedirect.com/science/article/pii/S0377221724009482}
 }
